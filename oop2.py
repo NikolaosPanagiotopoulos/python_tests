@@ -10,7 +10,7 @@ class Piece:
     xposition=None;
     yposition=None;
     active=None;
-    #κατασσκευαστής
+    #κατασκευαστής
     def __init__(self,color,type,xpos,ypos,active):
         self.color=color
         self.type=type
